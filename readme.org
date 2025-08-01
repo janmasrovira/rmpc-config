@@ -1,0 +1,7 @@
+* Readme
+To setup:
+#+begin_example
+git clone git@github.com:janmasrovira/rmpc-config.git ~/dotfiles/rmpc
+cd ~/dotfiles
+stow rmpc
+#+end_example
